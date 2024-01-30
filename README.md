@@ -1,1 +1,1 @@
-# TF-IDF
+# Term frequency Inverse document frequency 
